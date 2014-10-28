@@ -13,4 +13,8 @@ public class BitOperations {
     public long BITAND(long a, long b) {
         return a & b;
     }
+    
+    public long BITOR(long a, long b) {
+        return a | b;
+    }
 }
