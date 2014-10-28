@@ -6,7 +6,7 @@ package logging.b;
 import org.apache.log4j.Logger;
 
 /**
- * TODO (pujezdsky) Description
+ * Class B for logging tests
  *
  * @author <a href="mailto:petr.ujezdsky@cleverlance.com">Petr Újezdský</a>
  * @version $Id$
