@@ -1,10 +1,4 @@
 /*
- * $HeadURL$
- * $Date$
- * $Revision$
- *
- * Copyright (c) 2014 Cleverlance Enterprise Solutions a.s.
- * http://www.cleverlance.com
  * All Rights Reserved.
  */
 package logging.b;
