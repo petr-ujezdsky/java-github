@@ -10,7 +10,7 @@ import logging.a.A;
 import logging.b.B;
 
 /**
- * Description
+ * Main class
  *
  * @author <a href="mailto:petr.ujezdsky@cleverlance.com">Petr Újezdský</a>
  * @version $Id$
