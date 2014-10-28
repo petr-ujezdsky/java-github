@@ -3,7 +3,7 @@
  */
 
 /**
- * Description
+ * Class with bit operations
  *
  * @author <a href="mailto:petr.ujezdsky@cleverlance.com">Petr Újezdský</a>
  * @version $Id$
