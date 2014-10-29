@@ -19,12 +19,12 @@ public class Application {
     private static Logger log = Logger.getLogger(Application.class);
 
     public static void toDo() {
-        log.trace("Trace Message!");
-        log.debug("Debug Message!");
-        log.info("Info Message!");
-        log.warn("Warn Message!");
-        log.error("Error Message!");
         log.fatal("Fatal Message!");
+        log.error("Error Message!");
+        log.warn("Warn Message!");
+        log.info("Info Message!");
+        log.debug("Debug Message!");
+        log.trace("Trace Message!");
     }
 
     public static void main(String[] args) throws IOException {
