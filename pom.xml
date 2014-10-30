@@ -4,9 +4,9 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <name>Java Github test project here</name>
+    <name>Java sandbox</name>
     <groupId>org.pida.java</groupId>
-    <artifactId>java-github-awesome-stuff-inside</artifactId>
+    <artifactId>java-github</artifactId>
     <version>1.0-SNAPSHOT</version>
     <description>This is testing project for git</description>
 
