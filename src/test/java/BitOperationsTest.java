@@ -14,7 +14,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
- * Description
+ * Test class for BitOperations
  *
  * @author <a href="mailto:petr.ujezdsky@cleverlance.com">Petr Újezdský</a>
  * @version $Id$
