@@ -4,17 +4,16 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <name>Java github test project</name>
-    <groupId>org.pida.java</groupId>
-    <artifactId>java-github</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
-    <description>This is testing project for git</description>
+    <parent>
+        <groupId>org.pida.java</groupId>
+        <artifactId>java-github</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
 
-    <modules>
-        <module>other</module>
-        <module>main</module>
-    </modules>
+    <name>Java github test project</name>
+    <artifactId>java-github-main</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <description>This is testing project for git</description>
 
     <properties>
 
@@ -45,6 +44,26 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>commons-collections</groupId>
+            <artifactId>commons-collections</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>commons-lang</groupId>
+            <artifactId>commons-lang</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+        </dependency>
+    </dependencies>
 
     <build>
         <pluginManagement>
