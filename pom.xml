@@ -68,4 +68,20 @@
         </pluginManagement>
     </build>
 
+    <profiles>
+        <profile>
+            <id>profile1</id>
+            <properties>
+                <my-property>value1</my-property>
+            </properties>
+        </profile>
+
+        <profile>
+            <id>profile2</id>
+            <properties>
+                <my-property>value2</my-property>
+            </properties>
+        </profile>
+    </profiles>
+
 </project>
