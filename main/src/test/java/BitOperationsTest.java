@@ -14,7 +14,8 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
- * Test class for BitOperations. Contains tests of bit .. operations :)
+ * Test class for BitOperations.
+ * Contains tests of bit .. operations :)
  *
  * @author <a href="mailto:petr.ujezdsky@cleverlance.com">Petr Újezdský</a>
  * @version $Id$
