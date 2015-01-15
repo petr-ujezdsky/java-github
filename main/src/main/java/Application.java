@@ -10,7 +10,7 @@ import logging.a.A;
 import logging.b.B;
 
 /**
- * Main class
+ * Main class.
  *
  * @author <a href="mailto:petr.ujezdsky@cleverlance.com">Petr Újezdský</a>
  * @version $Id$
@@ -28,7 +28,6 @@ public class Application {
     }
 
     public static void main(String[] args) throws IOException {
-
         log.info("Welcome to testing project");
         log.info("");
 
