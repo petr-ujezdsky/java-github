@@ -10,10 +10,11 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <name>Java github test project</name>
+    <name>Java github test subproject</name>
     <artifactId>java-github-other</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <description>This is testing project for git</description>
+    <description>This is testing subproject for git</description>
+    <packaging>jar</packaging>
 
     <properties>
 
