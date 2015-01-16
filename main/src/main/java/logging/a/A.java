@@ -7,7 +7,7 @@ package logging.a;
 import org.apache.log4j.Logger;
 
 /**
- * Class A for logging tests
+ * Class A for logging tests.
  *
  * @author <a href="mailto:petr.ujezdsky@cleverlance.com">Petr Újezdský</a>
  * @version $Id$
