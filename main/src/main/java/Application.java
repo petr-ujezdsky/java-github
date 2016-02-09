@@ -30,7 +30,7 @@ public class Application {
     public static void main(String[] args) throws IOException {
 
         log.info("Welcome to testing project");
-        log.info("");
+        log.info("Let's start!");
 
         A.toDo();
         B.toDo();
